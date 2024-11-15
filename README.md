@@ -34,4 +34,5 @@ Learning the basics of **Jenkins** with the help of flask library, we created a 
 
 #### Output
   
-![image](https://github.com/user-attachments/assets/dde8ef2d-2056-4231-8621-c1a3ce70ed0c)
+![image](https://github.com/user-attachments/assets/b6a4a9fd-c11d-48bf-bcc9-7581cd89878e)
+
